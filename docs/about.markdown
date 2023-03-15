@@ -17,11 +17,11 @@ Twitter [@FIT_NGIn](https://twitter.com/fit_ngin)
 # Contact
 
 A.A. Martinos Center for Biomedical Imaging
-Massachusetts General Hospital
-149 Thirteenth Street, Rm 2301
-Charlestown, MA 02129
-Phone: [(617) 643-7791](tel:16176437791)
-Fax: (617) 726-7422
+Massachusetts General Hospital  
+149 Thirteenth Street, Rm 2301  
+Charlestown, MA 02129  
+Phone: [(617) 643-7791](tel:16176437791)  
+Fax: (617) 726-7422  
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
