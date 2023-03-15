@@ -50,10 +50,10 @@ width="180" height="140" alt="Lilla Zöllei, PhD" />](/lillazollei)
 # Jobs
 
 <span class="date-display-single">August 18, 2022</span>
+# HIRING
+## Machine learning in perinatal brain image analysis**
 
-**HIRING: Machine learning in perinatal brain image analysis**
-
-\*\* Two <u>**Postdoctoral Research Fellow Positions**</u> in
+Two **Postdoctoral Research Fellow Positions**
 Computational Neuroimaging at the A.A. Martinos Center, MGH, and Harvard
 Medical School \*\*
 
