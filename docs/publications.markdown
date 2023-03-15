@@ -1,5 +1,5 @@
 ---
-
+permalink: /publications/
 lang: en
 title: Publications by Lilla Zöllei, PhD
 twitter:card: summary
