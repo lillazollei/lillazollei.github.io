@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /publications/
 lang: en
 title: Publications
