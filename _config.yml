@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: The Zöllei Lab
 description: The Zöllei Lab
+baseurl: "/docs" # the subpath of your site, e.g. /blog
