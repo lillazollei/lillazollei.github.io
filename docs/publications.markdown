@@ -1,7 +1,7 @@
 ---
-generator: "OpenScholar for Drupal 7 (http://theopenscholar.org)"
+
 lang: en
-title: Publications \| Lilla Zöllei, PhD
+title: Publications by Lilla Zöllei, PhD
 twitter:card: summary
 twitter:description: Associate Professor of Radiology, MGH / HMS
 twitter:image: "https://scholar.harvard.edu/files/lillazollei/files/lillazollei.cr\\_.sm2\\_.jpg?m=1559666976"
@@ -9,116 +9,37 @@ twitter:title: Lilla Zöllei, PhD
 viewport: width=device-width, initial-scale=1.0
 ---
 
-::: {#skip-link}
-[Skip to main
-content](/lillazollei/publications#main-content){.element-invisible
-.element-focusable tabindex="1"}
-:::
 
-::: {#page_wrap .page_wrap}
-::: {.responive-menu-container .clearfix}
--   [[]{.icon-menu aria-hidden="true"}[Main
-    Menu]{.move}](/lillazollei/publications#){data-target="#block-os-primary-menu"}
--   [[]{.icon-plus aria-hidden="true"}[Utility
-    Menu]{.move}](/lillazollei/publications#){data-target="#block-os-quick-links, #block-os-secondary-menu, #header .os-custom-menu"}
--   [[]{.icon-search3
-    aria-hidden="true"}[Search]{.move}](/lillazollei/publications#){data-target="#block-os-search-db-site-search, #block-boxes-solr-search-box"}
-:::
-
-::: {#branding_header}
-::: {.branding-container .clearfix}
-::: branding-left
 [![University
-Logo](https://scholar.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png){width="235"
-height="32"}](http://www.harvard.edu/)
-:::
+Logo](https://scholar.harvard.edu/profiles/openscholar/themes/hwpi_basetheme/images/harvard-logo.png)](http://www.harvard.edu/)
 
-::: branding-right
-[HARVARD.EDU](http://www.harvard.edu/)
-:::
-:::
-:::
 
-::: {#page .container .page .header-left .header-main .content-none .footer-none}
-::: {#page-wrapper}
-::: {#header .clearfix role="banner"}
-::: {#header-container}
-::: {#header-panels .at-panel .gpanel .panel-display .three-col .clearfix}
-::: {.region .region-header-second}
-::: {.region-inner .clearfix}
-::: {#block-boxes-site-info .block .block-boxes .block-boxes-os_boxes_site_info .no-title module="boxes" delta="site_info"}
-::: {.block-inner .clearfix}
-::: {.block-content .content ng-non-bindable=""}
-::: {#boxes-box-site_info .boxes-box}
-::: boxes-box-content
+
 # [Lilla Zöllei, PhD](/lillazollei)
 
 ## Associate Professor of Radiology, MGH / HMS
 
-lzollei-at-mgh.harvard.edu\
-Anne Klibanski Visiting Scholar 2021\
-:::
-:::
-:::
-:::
-:::
-:::
-:::
+lzollei-at-mgh.harvard.edu
+Anne Klibanski Visiting Scholar 2021
 
-::: {.region .region-header-first}
-::: {.region-inner .clearfix}
-::: {#block-boxes-site-logo .block .block-boxes .block-boxes-os_boxes_site_logo .no-title module="boxes" delta="site_logo"}
-::: {.block-inner .clearfix}
-::: {.block-content .content ng-non-bindable=""}
-::: {#boxes-box-site_logo .boxes-box}
-::: boxes-box-content
 [![Lilla Zöllei,
 PhD](https://scholar.harvard.edu/files/lillazollei/files/lillazollei.cr_.sm2_.jpg?m=1559666976){width="180"
 height="140"}](/lillazollei)
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
-:::
 
-::: {#menu-bar .nav .region-menu-bar .clearfix}
 -   [Research](/lillazollei/research)
 -   [Publications](/lillazollei/publications "Publications"){.active}
 -   [Jobs](/lillazollei/jobs "Jobs")
 -   [Software](/lillazollei/software)
 :::
 
-::: {#columns .clearfix}
-::: hg-container
-::: {#content-column role="main"}
-::: content-inner
-::: breadcrumb
+
+
 [HOME](/lillazollei) /
-:::
 
-::: {#main-content .section}
-[]{#main-content}
-
-::: {#main-content-header}
 # Publications {#page-title ng-non-bindable=""}
-:::
 
-::: {#content}
-::: {#biblio-header .clear-block}
-::: biblio-export
-::: {#ctools-dropdown-21 .ctools-dropdown-no-js .ctools-dropdown}
-::: ctools-dropdown-link-wrapper
 [Download Citations](/lillazollei/publications#){.ctools-dropdown-link
-.ctools-dropdown-text-link}
-:::
 
-::: ctools-dropdown-container-wrapper
-::: ctools-dropdown-container
 -   [BibTex](/lillazollei/publications/export/bibtex?f%5Btype%5D%5B112%5D=1&f%5Btype%5D%5B114%5D=1&f%5Btype%5D%5B117%5D=1&f%5Btype%5D%5B100%5D=1&f%5Btype%5D%5B101%5D=1&f%5Btype%5D%5B111%5D=1&f%5Btype%5D%5B116%5D=1&f%5Btype%5D%5B123%5D=1&f%5Btype%5D%5B127%5D=1&f%5Btype%5D%5B103%5D=1&f%5Btype%5D%5B104%5D=1&f%5Btype%5D%5B1001%5D=1&f%5Btype%5D%5B125%5D=1&f%5Btype%5D%5B110%5D=1&f%5Btype%5D%5B126%5D=1&f%5Btype%5D%5B115%5D=1&f%5Btype%5D%5B131%5D=1&f%5Btype%5D%5B102%5D=1&f%5Btype%5D%5B128%5D=1&f%5Btype%5D%5B106%5D=1&f%5Btype%5D%5B121%5D=1&f%5Btype%5D%5B122%5D=1&f%5Btype%5D%5B129%5D=1&f%5Btype%5D%5B130%5D=1&f%5Btype%5D%5B105%5D=1&f%5Btype%5D%5B119%5D=1&f%5Btype%5D%5B120%5D=1&f%5Btype%5D%5B135%5D=1&f%5Btype%5D%5B109%5D=1&f%5Btype%5D%5B113%5D=1&f%5Btype%5D%5B118%5D=1&f%5Btype%5D%5B108%5D=1&f%5Btype%5D%5B124%5D=1&f%5Btype%5D%5B107%5D=1&f%5Btype%5D%5B134%5D=1&f%5Btype%5D%5B133%5D=1&f%5Btype%5D%5B132%5D=1&f%5Btype%5D%5B1000%5D=1 "Click to download the BibTEX formatted file")
 -   [Tagged](/lillazollei/publications/export/tagged?f%5Btype%5D%5B112%5D=1&f%5Btype%5D%5B114%5D=1&f%5Btype%5D%5B117%5D=1&f%5Btype%5D%5B100%5D=1&f%5Btype%5D%5B101%5D=1&f%5Btype%5D%5B111%5D=1&f%5Btype%5D%5B116%5D=1&f%5Btype%5D%5B123%5D=1&f%5Btype%5D%5B127%5D=1&f%5Btype%5D%5B103%5D=1&f%5Btype%5D%5B104%5D=1&f%5Btype%5D%5B1001%5D=1&f%5Btype%5D%5B125%5D=1&f%5Btype%5D%5B110%5D=1&f%5Btype%5D%5B126%5D=1&f%5Btype%5D%5B115%5D=1&f%5Btype%5D%5B131%5D=1&f%5Btype%5D%5B102%5D=1&f%5Btype%5D%5B128%5D=1&f%5Btype%5D%5B106%5D=1&f%5Btype%5D%5B121%5D=1&f%5Btype%5D%5B122%5D=1&f%5Btype%5D%5B129%5D=1&f%5Btype%5D%5B130%5D=1&f%5Btype%5D%5B105%5D=1&f%5Btype%5D%5B119%5D=1&f%5Btype%5D%5B120%5D=1&f%5Btype%5D%5B135%5D=1&f%5Btype%5D%5B109%5D=1&f%5Btype%5D%5B113%5D=1&f%5Btype%5D%5B118%5D=1&f%5Btype%5D%5B108%5D=1&f%5Btype%5D%5B124%5D=1&f%5Btype%5D%5B107%5D=1&f%5Btype%5D%5B134%5D=1&f%5Btype%5D%5B133%5D=1&f%5Btype%5D%5B132%5D=1&f%5Btype%5D%5B1000%5D=1 "Click to download the EndNote Tagged formatted file")
 -   [XML](/lillazollei/publications/export/xml?f%5Btype%5D%5B112%5D=1&f%5Btype%5D%5B114%5D=1&f%5Btype%5D%5B117%5D=1&f%5Btype%5D%5B100%5D=1&f%5Btype%5D%5B101%5D=1&f%5Btype%5D%5B111%5D=1&f%5Btype%5D%5B116%5D=1&f%5Btype%5D%5B123%5D=1&f%5Btype%5D%5B127%5D=1&f%5Btype%5D%5B103%5D=1&f%5Btype%5D%5B104%5D=1&f%5Btype%5D%5B1001%5D=1&f%5Btype%5D%5B125%5D=1&f%5Btype%5D%5B110%5D=1&f%5Btype%5D%5B126%5D=1&f%5Btype%5D%5B115%5D=1&f%5Btype%5D%5B131%5D=1&f%5Btype%5D%5B102%5D=1&f%5Btype%5D%5B128%5D=1&f%5Btype%5D%5B106%5D=1&f%5Btype%5D%5B121%5D=1&f%5Btype%5D%5B122%5D=1&f%5Btype%5D%5B129%5D=1&f%5Btype%5D%5B130%5D=1&f%5Btype%5D%5B105%5D=1&f%5Btype%5D%5B119%5D=1&f%5Btype%5D%5B120%5D=1&f%5Btype%5D%5B135%5D=1&f%5Btype%5D%5B109%5D=1&f%5Btype%5D%5B113%5D=1&f%5Btype%5D%5B118%5D=1&f%5Btype%5D%5B108%5D=1&f%5Btype%5D%5B124%5D=1&f%5Btype%5D%5B107%5D=1&f%5Btype%5D%5B134%5D=1&f%5Btype%5D%5B133%5D=1&f%5Btype%5D%5B132%5D=1&f%5Btype%5D%5B1000%5D=1 "Click to download the EndNote XML formatted file")
@@ -855,49 +776,18 @@ in older children and extend them to show that these changes are already
 evident in neonates. The observed alterations are likely to play a role
 in the deficits in attention and inhibitory control frequently seen in
 children with prenatal methamphetamine exposure.
-:::
-:::
-:::
 
-## Pages {#pages .element-invisible}
+## Contact
 
-::: item-list
--   1
--   [2](/lillazollei/publications?page=1 "Go to page 2")
--   [3](/lillazollei/publications?page=2 "Go to page 3")
--   [4](/lillazollei/publications?page=3 "Go to page 4")
--   [5](/lillazollei/publications?page=4 "Go to page 5")
--   [»](/lillazollei/publications?page=1)
--   [last](/lillazollei/publications?page=4)
-:::
-:::
-:::
-:::
-:::
 
-::: {.region .region-sidebar-second .sidebar}
-::: {.region-inner .clearfix}
-::: {#block-boxes-hwp-personal-contact-html .section .block .block-boxes .block-boxes-os_boxes_html module="boxes" delta="hwp_personal_contact_html"}
-::: {.block-inner .clearfix}
-## Contact {#contact .block-title ng-non-bindable=""}
-
-::: {.block-content .content ng-non-bindable=""}
-::: {#boxes-box-hwp_personal_contact_html .boxes-box}
-::: boxes-box-content
 A.A. Martinos Center for Biomedical Imaging\
 Massachusetts General Hospital\
 149 Thirteenth Street, Rm 2301\
 Charlestown, MA 02129\
 Phone: (617) 643-7791\
 Fax: (617) 726-7422
-:::
-:::
-:::
-:::
-:::
 
-::: {#block-boxes-os-publications-recent .section .block .block-boxes .block-boxes-os_sv_list_box module="boxes" delta="os_publications_recent"}
-::: {.block-inner .clearfix}
+
 ## Recent Publications {#recent-publications .block-title ng-non-bindable=""}
 
 ::: {.block-content .content ng-non-bindable=""}
