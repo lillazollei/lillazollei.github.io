@@ -27,10 +27,10 @@ Anne Klibanski Visiting Scholar 2021
 PhD](https://scholar.harvard.edu/files/lillazollei/files/lillazollei.cr_.sm2_.jpg?m=1559666976){width="180"
 height="140"}](/lillazollei)
 
--   [Research](/lillazollei/research)
--   [Publications](/lillazollei/publications "Publications"){.active}
--   [Jobs](/lillazollei/jobs "Jobs")
--   [Software](/lillazollei/software)
+-   [Research](/research)
+-   [Publications](/publications "Publications"){.active}
+-   [Jobs](//jobs "Jobs")
+-   [Software](//software)
 :::
 
 
