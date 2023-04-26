@@ -15,7 +15,20 @@ twitter:title: Lilla Zöllei, PhD
 
 ---
 
-Our lab works on various neuroimaging solutions related to human brain development. We are interested in MRI brain image analysis during the perinatal period and develop tools to analyze both postmorterm and in vivo high-resolution images. We work at the nexus of many scientific disciplines to accomplish computational neuroimaging, and enjoy collaborating with people from various scientific backgrounds to achieve our results.
+![DrZollei](/assets/logo.jpg){: .align-left}
+
+Dr. Zöllei is keen on developing neuroimaging solutions related to human brain development. Her interest lies in structural brain MRI image analysis during the perinatal period. She aims to develop automated software tools appicable to high-resolution postmorterm and in vivo images. Dr. Zöllei enjoys collaborating with people from various scientific backgrounds to achieve her goal.
+
+# Contact Info
+{% include contact.markdown %}
+
+{:style="clear: left"}
+
+Dr. Zöllei is one of the founding members of FIT'NG (Fetal, infant and toddler neuroimaging). Find out more about this scientific society at [FitNG](https://groups.io/g/fitng) or follow FIT'NG on Twitter [@FIT_NGIn](https://twitter.com/fit_ngin)
+
+![FITNG](/assets/coverphoto.fitng.png){: width="250" }
+
+
 
 
 
