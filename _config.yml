@@ -46,10 +46,12 @@ site:
 
 header_pages:
   - index.markdown
+  - people.markdown
   - about.markdown
-  - software.markdown
+  - projects.markdown
   - jobs.markdown
   - publications.markdown
+  - software.markdown
 
 
 minima:
